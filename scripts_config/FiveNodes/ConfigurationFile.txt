@@ -1,0 +1,22 @@
+#TotalNode
+5	
+#RootNode
+1
+#Topology
+dc17 2113 2,4,5
+dc18 2123 1,4,3
+dc19 2133 2,4,5
+dc20 2143 1,2,3,5
+dc21 2153 1,4,3
+#NumberOfCSReqPerNode
+80
+#MeanDelayBetweenCS
+50        
+#MeanDurationCS
+10 	
+#PortNosApp
+5135
+5235
+5335
+5435
+5535
